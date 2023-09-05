@@ -1,0 +1,13 @@
+*{
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    background-color: rgb(212, 203, 203);
+}
+
+h1{
+    color: white;
+    
+}
